@@ -14,3 +14,5 @@
 > design justificado por UI UX
 > Ético e rigoroso no uso da IA
 
+# Unidade II: IA o dev
+

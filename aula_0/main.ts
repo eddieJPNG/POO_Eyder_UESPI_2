@@ -24,3 +24,7 @@ class Gun {
 const shotgun = new Gun("Shotgun", 40, 120)
 
 shotgun.shoot()
+
+const m11 = new Gun("M11", 70, 35)
+
+m11.shoot()
