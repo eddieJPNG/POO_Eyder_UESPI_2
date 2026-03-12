@@ -14,3 +14,7 @@ class Aluno {
 
     
 }
+
+const aluno1 = new Aluno('João', 12345, 8.5, 2)
+
+console.log(aluno1)
