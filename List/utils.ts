@@ -2,4 +2,7 @@ export const addLines = (): void => {
     console.log('-------------------------------------------------')
 }
 
-addLines()
+export function clearScreen(): void {
+   process.stdout.write("\x1Bc");
+}
+ 
